@@ -15,6 +15,11 @@ Automatarium was built by RMIT students
 - [Ewan Breakey](https://github.com/giraugh)
 - [Benji Grant](https://github.com/GRA0007)
 - [Tim Tran](https://github.com/spacediscotqtt)
+- [Tomas Haddad](https://github.com/tomashaddad)
+- [Lachlan Blennerhassett](https://github.com/Canni6)
+- [Conor Christensen](https://github.com/ConorChristensen-RMIT)
+- [Jessani Linsangan](https://github.com/s3844703)
+- [Oliver Hale](https://github.com/s3781403)
 
 ## Project Structure
 
